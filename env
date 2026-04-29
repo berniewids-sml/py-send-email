@@ -1,0 +1,15 @@
+# SMTP Configuration
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=465
+USE_SSL=True
+
+# Email Credentials
+SENDER_EMAIL=your_email@gmail.com
+SENDER_PASSWORD=your_app_password
+
+# Recipient
+RECEIVER_EMAIL=recipient@example.com
+
+# Email Content
+EMAIL_SUBJECT=Test Email
+EMAIL_BODY=This is a test email sent from Python.
